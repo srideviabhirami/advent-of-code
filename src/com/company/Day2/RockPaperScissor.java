@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class StonePaperScissor {
+public class RockPaperScissor {
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File(
                 "/Users/abhirami/learning/adventOfCode/src/com/company/Day2/input.txt");

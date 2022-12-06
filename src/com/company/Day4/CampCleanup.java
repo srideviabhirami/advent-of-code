@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class OverLap {
+public class CampCleanup {
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File(
                 "/Users/abhirami/learning/adventOfCode/src/com/company/Day4/input.txt");

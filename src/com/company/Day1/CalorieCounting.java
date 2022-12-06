@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class CalorieCalculator {
+public class CalorieCounting {
 
     public static void main(String[] args) throws IOException {
         // File path is passed as parameter
